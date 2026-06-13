@@ -1,0 +1,53 @@
+{
+    "name": "Weird power ranger test",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-raycasting": "github:neintoes/pxt-raycasting#6f3bd81686da0cc654fb0cff7c5c2bf8528480c3",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "controller": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.56",
+        "tag": "v1.12.56",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/415ef2df2ac233e8d214fef5f4ea26f2f5de232a",
+        "target": "4.0.14",
+        "pxt": "8.5.67",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#00FFFF",
+        "#00AAFF",
+        "#0055FF",
+        "#FF00FF",
+        "#AA00FF",
+        "#5500FF",
+        "#FFFF00",
+        "#FFAA00",
+        "#FF5500",
+        "#39505B",
+        "#212B3F",
+        "#CC1111",
+        "#216922",
+        "#000000"
+    ]
+}
